@@ -2,16 +2,9 @@
 
 ## Overview
 
-KAMPUS26 is a private "study in public" and research project that aims to learn about and share knowledge and insights about recent advances in decentralized robotics and swarm intelligence. The project is not affiliated with any organization or institution, but is inspired by the Distributed Autonomous Robotic Systems (DARS) symposium series, which is a biennial forum for scientific exchange and technical communication on the latest advances in distributed robotics. The project will follow the synopsis of papers presented at the 2023 DARS symposium and will involve reading and summarizing papers, writing blog posts, and creating a study guide. The project will be conducted in the open, and all materials will be shared on GitHub.
-We have identified two main tracks for this project: 1) Genetic Algorithms and 2) Distributed Autonomous Robotic Systems.
+KAMPUS26 is a private "study in public" and research project that aims to learn about and share knowledge and insights about recent advances in decentralized robotics and swarm intelligence. The project is not affiliated with any organization or institution, but is inspired by the Distributed Autonomous Robotic Systems (DARS) Symposium series, which is a biennial forum for scientific exchange and technical communication on the latest advances in distributed robotics. The project will roughly follow the synopsis of papers presented at the 2023 DARS symposium and will involve reading and summarizing papers, writing blog posts, and creating a study guide. The project will be conducted in the open, and all materials will be shared on GitHub.
 
-## Track 1: Genetic Algorithms
-
-### Topics and Objectives
-
-## Track 2: Distributed Autonomous Robotic Systems
-
-### Topics and Objectives
+## Topics
 
 1. [Generating Goal Configurations for Scalable Shape Formation in Robotic Swarms](chapter1.md)
 2. [Leading a Swarm with Signals](chapter2.md)
