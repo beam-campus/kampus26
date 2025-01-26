@@ -8,7 +8,7 @@ This self-study plan has two tracks: One will roughly follow the synopsis of pap
 
 The project will be conducted in the open, and all materials will be shared on GitHub.
 
-## [Track 1 : Genetic Algorithms using Elixir](https://github.com/beam-campus/kampus26.1.git)
+## Track 1 : Genetic Algorithms using Elixir
 
 1. [Writing Your First Genetic Algorithm](genetic_algorithms_using_elixir/chapter1/readme.md)
 2. [Breaking Down Genetic Algorithms](genetic_algorithms_using_elixir/chapter2/readme.md)
