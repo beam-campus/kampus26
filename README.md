@@ -10,7 +10,7 @@ The project will be conducted in the open, and all materials will be shared on G
 
 ## Track1 : Genetic Algorithms using Elixir
 
-1. [Writing Your First Genetic Algorithm](genetic_algorithms_using_elixir/chapter1/readme.md)
+1. [Writing Your First Genetic Algorithm](../kampus26.1/chapter1/readme.md)
 2. [Breaking Down Genetic Algorithms](genetic_algorithms_using_elixir/chapter2/readme.md)
 3. [Encoding Problems and Solutions](genetic_algorithms_using_elixir/chapter3/readme.md)
 4. [Evaluating Solutions and Populations](genetic_algorithms_using_elixir/chapter4/readme.md)
