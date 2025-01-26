@@ -8,9 +8,9 @@ This self-study plan has two tracks: One will roughly follow the synopsis of pap
 
 The project will be conducted in the open, and all materials will be shared on GitHub.
 
-## Track1 : Genetic Algorithms using Elixir
+## [Track 1 : Genetic Algorithms using Elixir](https://github.com/beam-campus/kampus26.1.git)
 
-1. [Writing Your First Genetic Algorithm](../kampus26.1/chapter1/readme.md)
+1. [Writing Your First Genetic Algorithm](genetic_algorithms_using_elixir/chapter1/readme.md)
 2. [Breaking Down Genetic Algorithms](genetic_algorithms_using_elixir/chapter2/readme.md)
 3. [Encoding Problems and Solutions](genetic_algorithms_using_elixir/chapter3/readme.md)
 4. [Evaluating Solutions and Populations](genetic_algorithms_using_elixir/chapter4/readme.md)
@@ -24,7 +24,7 @@ The project will be conducted in the open, and all materials will be shared on G
 12. [Writing Tests and Code Quality](genetic_algorithms_using_elixir/chapter12/readme.md)
 13. [Moving Forward](genetic_algorithms_using_elixir/chapter13/readme.md)
 
-## Track2: Multi-Robot Systems and Robotic Swarms
+## Track 2: Multi-Robot Systems and Robotic Swarms
 
 1. [Generating Goal Configurations for Scalable Shape Formation in Robotic Swarms](dars23/chapter1/readme.md)
 2. [Leading a Swarm with Signals](dars23/chapter2/readme.md)
